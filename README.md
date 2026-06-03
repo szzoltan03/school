@@ -1,7 +1,5 @@
-Beadandó leírás:
-
-Beadandó esettanulmány követelményei
-A gyakorlati jegy megszerzéséhez egy esettanulmányt, vagyis egy komplett
+Beadandó esettanulmány követelményei:
+A gyakorlati jegy meg szerzéséhez egy esettanulmányt, vagyis egy komplett
 adatelemzési munkát kell elvégezni és dokumentálni. Az adatelemzés technikai részét
 Python Notebookban kell kivitelezni, de a vizualizációkat, az eredmények bemutatását
 lehet BI programokkal (Power BI, Tableau) csinálni.
